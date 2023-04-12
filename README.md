@@ -1,39 +1,28 @@
-> The example repository is maintained from a [monorepo](https://github.com/nextauthjs/next-auth/tree/main/apps/examples/sveltekit). Pull Requests should be opened against [`nextauthjs/next-auth`](https://github.com/nextauthjs/next-auth).
+# Create T3 App
 
-<p align="center">
-   <br/>
-   <a href="https://authjs.dev" target="_blank">
-   <img height="64" src="https://authjs.dev/img/logo/logo-sm.png" />
-   </a>
-   <a href="https://kit.svelte.dev" target="_blank">
-   <img height="64" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
-   </a>
-   <h3 align="center"><b>SvelteKit Auth</b> - Example App</h3>
-   <p align="center">
-   Open Source. Full Stack. Own Your Data.
-   </p>
-   <p align="center" style="align: center;">
-      <a href="https://npm.im/@auth/sveltekit">
-        <img alt="npm" src="https://img.shields.io/npm/v/@auth/sveltekit?color=green&label=@auth/sveltekit&style=flat-square">
-      </a>
-      <a href="https://bundlephobia.com/result?p=@auth/sveltekit">
-        <img src="https://img.shields.io/bundlephobia/minzip/@auth/sveltekit?label=size&style=flat-square" alt="Bundle Size"/>
-      </a>
-      <a href="https://www.npmtrends.com/@auth/sveltekit">
-        <img src="https://img.shields.io/npm/dm/@auth/sveltekit?label=downloads&style=flat-square" alt="Downloads" />
-      </a>
-      <a href="https://npm.im/@auth/sveltekit">
-        <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square" alt="TypeScript" />
-      </a>
-   </p>
-</p>
+This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
-## Overview
+## What's next? How do I make an app with this?
 
-This is the official SvelteKit Auth example for [Auth.js](https://sveltekit.authjs.dev).
+We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
 
-## Getting started
+If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
 
-You can instantly deploy this example to [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=sveltekit-auth-example) by clicking the following button.
+- [Next.js](https://nextjs.org)
+- [NextAuth.js](https://next-auth.js.org)
+- [Prisma](https://prisma.io)
+- [Tailwind CSS](https://tailwindcss.com)
+- [tRPC](https://trpc.io)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/nextauthjs/sveltekit-auth-example&project-name=sveltekit-auth-example&repository-name=sveltekit-auth-example)
+## Learn More
+
+To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+
+- [Documentation](https://create.t3.gg/)
+- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+
+You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+
+## How do I deploy this?
+
+Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
