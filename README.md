@@ -1,8 +1,13 @@
+<p align="center">
+<img src="./screenshots/heroimage.png" />
+</p>
+
 # PageHive 🐝🍯
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`. This repository contains the code for create a personal bookmark manager. Fully equiped with advanced search, tags and categories to keep everything organized. Preview the links with metadata that is automatically fetched for every URL. Beautifully designed with a modern dark interface inspired by Vercel's design system.
 
 ## Installation Instructions
+
 ### Clone this repository
 
 ```bash
